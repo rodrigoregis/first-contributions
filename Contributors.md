@@ -2502,6 +2502,7 @@ CMBloodMeridian
 - [Vishwajeet Nehra](https://github.com/VishwajeetNehra)
 - [Bijan Fard](https://github.com/BFard)
 - [Erick Greene](https://github.com/CptSharpie)
+  [Rodrigo Regis](https://github.com/rodrigoregis)
 - [Johnnie](https://github.com/aimlessblitz)
 - [Tony G](https://github.com/tonygparsehub)
 - [Mario DeLaPaz](https://github.com/mariocd10)
